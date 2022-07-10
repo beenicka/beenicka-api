@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.beenicka.com.br/)**.
 Uploader is available via Composer:
 
 ```bash
-"BeenickaBrasil/beenicka": "^1.0"
+"beenicka-brasil/beenicka": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require BeenickaBrasil/beenicka
+composer require beenicka-brasil/beenicka
 ```
 
 ## Documentation
@@ -49,7 +49,7 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use BeenickaBrasil\beenicka\Me;
+use beenicka-brasil\beenicka\Me;
 
 $me = new Me(
     "suaapi.url.com",
