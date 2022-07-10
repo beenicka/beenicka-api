@@ -1,19 +1,19 @@
-# CaféApi Library Test
+# BeeNicka Test
 
-[![Maintainer](http://img.shields.io/badge/maintainer-@robsonvleite-blue.svg?style=flat-square)](https://twitter.com/robsonvleite)
-[![Source Code](http://img.shields.io/badge/source-robsonvleite/cafeapi-blue.svg?style=flat-square)](https://github.com/robsonvleite/cafeapi)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/robsonvleite/cafeapi.svg?style=flat-square)](https://packagist.org/packages/robsonvleite/cafeapi)
-[![Latest Version](https://img.shields.io/github/release/robsonvleite/cafeapi.svg?style=flat-square)](https://github.com/robsonvleite/cafeapi/releases)
+[![Maintainer](http://img.shields.io/badge/maintainer-@beenicka-blue.svg?style=flat-square)](https://twitter.com/beenicka)
+[![Source Code](http://img.shields.io/badge/source-BeenickaBrasil/beenicka-blue.svg?style=flat-square)](https://github.com/BeenickaBrasil/beenicka-api)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/BeenickaBrasil/cafeapi.svg?style=flat-square)](https://packagist.org/packages/BeenickaBrasil/beenicka-api)
+[![Latest Version](https://img.shields.io/github/release/BeenickaBrasil/beenicka.svg?style=flat-square)](https://github.com/BeenickaBrasil/beenicka-api/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/robsonvleite/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/robsonvleite/cafeapi)
-[![Quality Score](https://img.shields.io/scrutinizer/g/robsonvleite/cafeapi.svg?style=flat-square)](https://scrutinizer-ci.com/g/robsonvleite/cafeapi)
-[![Total Downloads](https://img.shields.io/packagist/dt/robsonvleite/cafeapi.svg?style=flat-square)](https://packagist.org/packages/crobsonvleite/cafeapi)
+[![Build](https://img.shields.io/scrutinizer/build/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/BeenickaBrasil/beenicka-api)
+[![Quality Score](https://img.shields.io/scrutinizer/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/BeenickaBrasil/beenicka-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/BeenickaBrasil/beenicka.svg?style=flat-square)](https://packagist.org/packages/crobsonvleite/beenicka-api)
 
-###### CaféApi Library is a small set of classes developed in UpInside's Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
+###### BeeNicka is a small set of classes developed in Brayapoluth Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
-CaféApi Library é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer da UpInside para integração ao webservice de uma plataforma SaaS desenvolvida no curso.
+BeeNicka é um pequeno conjunto de classes desenvolvidas na formação Full Stack PHP Developer da UpInside para integração ao webservice de uma plataforma SaaS desenvolvida.
 
-Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
+Você pode saber mais **[clicando aqui](https://www.beenicka.com.br/)**.
 
 ### Highlights
 
@@ -27,13 +27,13 @@ Você pode saber mais **[clicando aqui](https://www.upinside.com.br/fsphp)**.
 Uploader is available via Composer:
 
 ```bash
-"robsonvleite/cafeapi": "^1.0"
+"BeenickaBrasil/beenicka": "^1.0"
 ```
 
 or run
 
 ```bash
-composer require robsonvleite/cafeapi
+composer require BeenickaBrasil/beenicka
 ```
 
 ## Documentation
@@ -49,7 +49,7 @@ Para mais detalhes sobre como usar, veja uma pasta de exemplo no diretório do c
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Me;
+use BeenickaBrasil\beenicka\Me;
 
 $me = new Me(
     "suaapi.url.com",
@@ -62,8 +62,8 @@ $user = $me->me();
 
 //update
 $user->update([
-    "first_name" => "Robson",
-    "last_name" => "Leite",
+    "first_name" => "Lucas",
+    "last_name" => "Henrique",
     "genre" => "male",
     "datebirth" => "1980-01-02",
     "document" => "888888888"
@@ -87,7 +87,7 @@ if ($user->error()) {
 
 require __DIR__ . "/../vendor/autoload.php";
 
-use RobsonVLeite\CafeApi\Invoices;
+use BeenickaBrasil\beenicka\Invoices;
 
 $invoices = new Invoices(
     "suaapi.url.com",
@@ -164,10 +164,10 @@ Thank you
 
 ## Credits
 
-- [Robson V. Leite](https://github.com/robsonvleite) (Developer)
-- [UpInside Treinamentos](https://github.com/robsonvleite) (Team)
-- [All Contributors](https://github.com/robsonvleite/uploader/contributors) (This Rock)
+- [BeeNicka Control](https://github.com/beenicka) (Developer)
+- [Brayapoluth Treinamentos](https://github.com/brayapoluth) (Team)
+- [All Contributors](https://github.com/BeenickaBrasil/uploader/contributors) (This Rock)
 
 ## License
 
-The MIT License (MIT). Please see [License File](https://github.com/robsonvleite/cafeapi/blob/master/LICENSE) for more information.
+The MIT License (MIT). Please see [License File](https://github.com/BeenickaBrasil/beenicka/blob/master/LICENSE) for more information.
