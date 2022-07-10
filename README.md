@@ -1,13 +1,13 @@
 # BeeNicka Test
 
 [![Maintainer](http://img.shields.io/badge/maintainer-@beenicka-blue.svg?style=flat-square)](https://twitter.com/beenicka)
-[![Source Code](http://img.shields.io/badge/source-BeenickaBrasil/beenicka-blue.svg?style=flat-square)](https://github.com/BeenickaBrasil/beenicka-api)
-[![PHP from Packagist](https://img.shields.io/packagist/php-v/BeenickaBrasil/cafeapi.svg?style=flat-square)](https://packagist.org/packages/BeenickaBrasil/beenicka-api)
-[![Latest Version](https://img.shields.io/github/release/BeenickaBrasil/beenicka.svg?style=flat-square)](https://github.com/BeenickaBrasil/beenicka-api/releases)
+[![Source Code](http://img.shields.io/badge/source-BeenickaBrasil/beenicka-blue.svg?style=flat-square)](https://github.com/beenicka/beenicka-api)
+[![PHP from Packagist](https://img.shields.io/packagist/php-v/BeenickaBrasil/cafeapi.svg?style=flat-square)](https://packagist.org/packages/beenicka/beenicka-api)
+[![Latest Version](https://img.shields.io/github/release/BeenickaBrasil/beenicka.svg?style=flat-square)](https://github.com/beenicka/beenicka-api/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/BeenickaBrasil/beenicka-api)
-[![Quality Score](https://img.shields.io/scrutinizer/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/BeenickaBrasil/beenicka-api)
-[![Total Downloads](https://img.shields.io/packagist/dt/BeenickaBrasil/beenicka.svg?style=flat-square)](https://packagist.org/packages/crobsonvleite/beenicka-api)
+[![Build](https://img.shields.io/scrutinizer/build/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api)
+[![Quality Score](https://img.shields.io/scrutinizer/g/BeenickaBrasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api)
+[![Total Downloads](https://img.shields.io/packagist/dt/BeenickaBrasil/beenicka.svg?style=flat-square)](https://packagist.org/packages/beenicka-brasil/beenicka)
 
 ###### BeeNicka is a small set of classes developed in Brayapoluth Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
 
