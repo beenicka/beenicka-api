@@ -164,9 +164,9 @@ Thank you
 
 ## Credits
 
-- [BeeNicka Control](https://github.com/beenicka) (Developer)
-- [Brayapoluth Treinamentos](https://github.com/brayapoluth) (Team)
-- [All Contributors](https://github.com/robsonvleite/uploader/cafeapi/contributors) (This Rock)
+- [BeeNicka Control](https://github.com/brayapoluth) (Developer)
+- [Brayapoluth Treinamentos](https://github.com/beenicka) (Control)
+- [All Contributors](https://github.com/robsonvleite/cafeapi/graphs/contributors) (This Rock)
 
 ## License
 
