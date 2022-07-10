@@ -1,5 +1,5 @@
 {
-  "name": "robsonvleite/cafeapi",
+  "name": "BeenickaBrasil/beenicka",
   "description": "Biblioteca API para integração com o webservice do SaaS",
   "keywords": [
     "Brayapoluth",
@@ -25,7 +25,7 @@
   },
   "autoload": {
     "psr-4": {
-      "RobsonVLeite\\CafeApi\\": "src"
+      "BeenickaBrasil\\beenicka\\": "src"
     }
   }
 }
