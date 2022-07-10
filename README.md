@@ -166,7 +166,7 @@ Thank you
 
 - [BeeNicka Control](https://github.com/beenicka) (Developer)
 - [Brayapoluth Treinamentos](https://github.com/brayapoluth) (Team)
-- [All Contributors](https://github.com/robsonvleite/uploader/graphs/contributors) (This Rock)
+- [All Contributors](https://github.com/robsonvleite/uploader/cafeapi/contributors) (This Rock)
 
 ## License
 
