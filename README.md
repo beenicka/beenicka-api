@@ -5,8 +5,8 @@
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/beenicka-brasil/beenicka.svg?style=flat-square)](https://packagist.org/packages/beenicka-brasil/beenicka)
 [![Latest Version](https://img.shields.io/github/release/beenicka/beenicka-api.svg?style=flat-square)](https://packagist.org/packages/beenicka-brasil/beenicka)
 [![Software License](https://img.shields.io/github/license/beenicka/beenicka-api?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/beenicka-brasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api/)
-[![Quality Score](https://img.shields.io/scrutinizer/g/beenicka-brasil/beenicka.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api/)
+[![Build](https://img.shields.io/scrutinizer/build/g/beenicka/beenicka-api.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api/)
+[![Quality Score](https://img.shields.io/scrutinizer/g/beenicka/beenicka-api.svg?style=flat-square)](https://scrutinizer-ci.com/g/beenicka/beenicka-api/)
 [![Total Downloads](https://img.shields.io/packagist/dt/beenicka-brasil/beenicka.svg?style=flat-square)](https://packagist.org/packages/beenicka-brasil/beenicka)
 
 ###### BeeNicka is a small set of classes developed in Brayapoluth Full Stack PHP Developer training for integration into the webservice of a SaaS platform developed in the course..
